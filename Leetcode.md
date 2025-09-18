@@ -3,6 +3,7 @@
 ## 📌 Sliding Window 
 
 ## 📌 Binary Search
+- [704. Binary Search](https://leetcode.com/submissions/detail/1774877426/)
 
 ## 📌 String 
 
@@ -33,10 +34,10 @@
 ## 📌 Math
 
 - [9. Palindrome Number](https://leetcode.com/submissions/detail/1752734781/)
-- [29.]()
-- [69. ]()
-- [172. ]()
-- [263. ]()
+- [29. Divide Two Integers](https://leetcode.com/submissions/detail/1760397282/)
+- [69. Sqrt(x)](https://leetcode.com/submissions/detail/1758045403/)
+- [172. Factorial Trailing Zeroes](https://leetcode.com/submissions/detail/1772034177/)
+- [263. Ugly Number](https://leetcode.com/submissions/detail/1770062365/)
 - [507. ]()
-- [3099. ]()
+- [3099. Harshad Number](https://leetcode.com/submissions/detail/1771568879/)
 
